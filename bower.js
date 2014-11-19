@@ -2,7 +2,7 @@
   "name": "pc-angular-fixed-header-table",
   "version": "1.1.0",
   "description": "AngularJS fixed header scrollable table directive",
-  "main": "angu-fixed-header-table.js",
+  "main": "angular-scrollable-table.js",
   "keywords": [
     "AngularJS",
     "Fixed Header Table"
